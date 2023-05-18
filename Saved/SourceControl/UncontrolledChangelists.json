@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jermiranda/Documents/Unreal Projects/MyProjectSRD/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/jermiranda/Documents/Unreal Projects/MyProjectSRD/Content/Common/Assets/Materials/Body.uasset",
+				"C:/Users/jermiranda/Documents/Unreal Projects/MyProjectSRD/Content/Common/Assets/Materials/Driver.uasset",
+				"C:/Users/jermiranda/Documents/Unreal Projects/MyProjectSRD/Content/Common/Assets/Materials/Glass.uasset",
+				"C:/Users/jermiranda/Documents/Unreal Projects/MyProjectSRD/Content/Common/Assets/Materials/Interior.uasset",
+				"C:/Users/jermiranda/Documents/Unreal Projects/MyProjectSRD/Content/Common/Assets/Materials/Wheels.uasset",
+				"C:/Users/jermiranda/Documents/Unreal Projects/MyProjectSRD/Content/Common/Assets/Porsche_963_White_5Mil.uasset",
+				"C:/Users/jermiranda/Documents/Unreal Projects/MyProjectSRD/Content/Template/Maps/M_Template_Box.umap",
+				"C:/Users/jermiranda/Documents/Unreal Projects/MyProjectSRD/Content/Common/Assets/Materials/Bottom.uasset"
+			]
+		}
+	]
+}
